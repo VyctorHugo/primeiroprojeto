@@ -1,0 +1,55 @@
+div {
+	font-size: 16px;
+}
+.formatacao {
+	text-decoration: underline;
+}
+#noticias {
+	background-color: gray;
+	border: 1px red solid;
+	width: 250px;
+	right: 180px;
+	float: left;
+	margin: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.clear {
+	clear: both;
+}
+.texto1 {
+	color: blue;
+	font-size:20px; /*px, % em*/
+	font-family:'Time New Roman', Times, serif;
+}
+.texto2 {
+	color:black;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: oblique;
+	font-family: 'Times New Roman', Times, serif;
+
+}
+.azul {
+	color: blue;
+}
+
+#menu {
+	border: 1px red solid;
+	background-color: gray; 
+   border-color: red green yellow blue;
+   border-width: 1px 5px 8px 10px;
+   border-style: solid dotted dashed solid;
+  }
+
+
+#rodape {
+	border: 1px green solid;
+ /* background-color: gray; */
+ border-color: red green yellow blue;
+ border-width: 1px 5px 8px 10px;
+ border-style: solid ;
+}
